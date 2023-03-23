@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 2 Copy 2</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-2-Copy-2">
-            <circle id="Oval" fill="#22C55E" cx="128" cy="128" r="128"></circle>
-            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="12" cx="128.32" cy="128.32" r="114"></circle>
-            <polygon id="Path" stroke="#FFFFFF" stroke-width="5" fill="#FFFFFF" points="80 65.92 80 190.72 106.896552 190.72 106.896552 65.92"></polygon>
-            <polygon id="Path-2" stroke="#FFFFFF" stroke-width="5" fill="#FFFFFF" points="117.76 128.32 149.497931 190.72 176.932414 190.72 144.118621 128.32 176.932414 65.92 149.497931 65.92"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.1" viewBox="0 0 256 256"><title>Group 2 Copy 2</title><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Group-2-Copy-2"><circle id="Oval" cx="128" cy="128" r="128" fill="#22C55E"/><circle id="Oval-Copy" cx="128.32" cy="128.32" r="114" stroke="#FFF" stroke-width="12"/><polygon id="Path" fill="#FFF" stroke="#FFF" stroke-width="5" points="80 65.92 80 190.72 106.897 190.72 106.897 65.92"/><polygon id="Path-2" fill="#FFF" stroke="#FFF" stroke-width="5" points="117.76 128.32 149.498 190.72 176.932 190.72 144.119 128.32 176.932 65.92 149.498 65.92"/></g></g></svg>
